@@ -17,7 +17,8 @@ Installation
 Prerequisites
 
     Frappe framework
-    Git
+    ERPNext
+    mariadb
 
 Steps
 
